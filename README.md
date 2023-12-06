@@ -1,5 +1,5 @@
 # Random Image Downloader
-RandomImageDownloader is a Python script that allows you to download random images from the Internet. Easy to use and can be configured to download images from various sources.
+__RandomImageDownloader__ is a Python script that allows you to download random images from the Internet. Easy to use and can be configured to download images from various sources.
 
 ## Installation
 Install dependencies:
