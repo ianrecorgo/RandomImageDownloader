@@ -16,7 +16,7 @@ python random_image_downloader.py
 ```
 
 ## Usage
-The script by default sends a request to a page with images (replace the base_url in the code with your source), selects a random image and saves it to the ./images directory under the name random_image.jpg.
+The script by default sends a request to a page with images (replace the base_url in the code with your source), selects a random image and saves it to the `./images` directory under the name random_image.jpg.
 
 You can configure the save path and source of the images in the script code.
 
